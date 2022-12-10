@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MILAN88888
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JQuery and Laravel.
+- 🌱 I’m currently learning React Js and Laravel.
 - 💞️ I’m looking to collaborate on ...
 - 📫 gmail : chaudharymilan996@gmail.com
 
