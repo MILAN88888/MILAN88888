@@ -1,4 +1,3 @@
-![logo](https://github.com/MILAN88888/MILAN88888/blob/main/new_milan_banner.png)
 <h1 align="center">Hi 👋, I'm Milan Kumar Chaudhary</h1>
 <h3 align="center">A passionate Software Engineer from Nepal.</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
