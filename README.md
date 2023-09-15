@@ -9,7 +9,7 @@ I'm <b>Milan Chaudhary</b>, a tech enthusiast 👨‍💻. I specialize in <b><s
 
 * 🕵️‍♂️ I’m currently learning **React Js**
 
-* 👨‍💻 All of my projects are available at [https://www.milankumarchaudhary.com.np/](https://www.milankumarchaudhary.com.np/)
+* 👨‍💻 All of my projects are available at [https://www.milankumarchaudhary.com.np/](https://www.milankumarchaudhary.com.np/) or [https://www.milanc.netlify.com/](https://www.milanc.netlify.com/)
 
 * 💬 Ask me about **Javascript, React, PHP, Laravel, Wordpress plugin**
 
