@@ -1,4 +1,3 @@
-<img src="https://github.com/MILAN88888/MILAN88888/blob/main/milan-banner.gif" width="100%" />
 <h1> Hi, Buddy 🙋‍♂️ </h1>
 
 I'm <b>Milan Chaudhary</b>, a tech enthusiast 👨‍💻. I specialize in <b><span>Core PHP, Laravel, JavaScript, jQuery, React, Next Js</span></b>. I also develop and maintain popular WordPress plugins. 🚀: [User Registration](https://wpeverest.com/wordpress-plugins/user-registration), [Everest Forms](https://wpeverest.com/wordpress-plugins/everest-forms/).
