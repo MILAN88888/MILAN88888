@@ -1,6 +1,6 @@
 <h1> Hi, Buddy 🙋‍♂️ </h1>
 
-I'm <b>Milan Chaudhary</b>, a tech enthusiast 👨‍💻. I specialize in <b><span>Core PHP, Laravel, JavaScript, jQuery, React, Next Js</span></b>. I also develop and maintain popular WordPress plugins. 🚀: [User Registration](https://wpeverest.com/wordpress-plugins/user-registration), [Everest Forms](https://wpeverest.com/wordpress-plugins/everest-forms/).
+I'm <b>Milan Chaudhary</b>, a tech enthusiast 👨‍💻. I specialize in <b><span>Core PHP, Laravel, JavaScript, jQuery, React, Next Js, Wordpress Plugin, Gutenberg Blocks</span></b>. I also develop and maintain popular WordPress plugins. 🚀: [User Registration](https://wpeverest.com/wordpress-plugins/user-registration), [Everest Forms](https://wpeverest.com/wordpress-plugins/everest-forms/).
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
 
@@ -10,7 +10,7 @@ I'm <b>Milan Chaudhary</b>, a tech enthusiast 👨‍💻. I specialize in <b><s
 
 * 👨‍💻 All of my projects are available at [https://nextjs-portfolio-milan-chaudharys-projects.vercel.app/](https://nextjs-portfolio-milan-chaudharys-projects.vercel.app/) or [https://www.milanc.com.np/](https://www.milanc.com.np/)
 
-* 💬 Ask me about **Javascript, React, Next Js, PHP, Laravel, Wordpress plugin**
+* 💬 Ask me about **Javascript, React, Next Js, PHP, Laravel, Wordpress plugin and Gutenberg Block**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
