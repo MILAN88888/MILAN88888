@@ -1,33 +1,60 @@
-<h1> Hi, Buddy 🙋‍♂️ </h1>
+## Hi, Buddy 🙋‍♂️
+### Full-Stack Developer | WordPress Plugin Specialist
 
-I'm <b>Milan Chaudhary</b>, a tech enthusiast 👨‍💻. I specialize in <b><span>Core PHP, Laravel, JavaScript, jQuery, React, Next Js, Wordpress Plugin, Gutenberg Blocks</span></b>. I also develop and maintain popular WordPress plugins. 🚀: [User Registration](https://wpeverest.com/wordpress-plugins/user-registration), [Everest Forms](https://wpeverest.com/wordpress-plugins/everest-forms/).
+🧠 Problem Solver | 🛠️ Full-Stack Craftsman | ♥️ Open-Source Contributor
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2ea44f?style=for-the-badge)](https://www.milanc.com.np/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milan88888&label=Profile%20views&color=0e75b6&style=flat" alt="milan88888" /> </p>
+## 🌟 WordPress Plugin Expertise
 
-* 🕵️‍♂️ I’m currently learning **React Js**, **Next Js**
+I develop and maintain high-performance WordPress plugins with thousands of active installations:
 
-* 👨‍💻 All of my projects are available at [https://nextjs-portfolio-milan-chaudharys-projects.vercel.app/](https://nextjs-portfolio-milan-chaudharys-projects.vercel.app/) or [https://www.milanc.com.np/](https://www.milanc.com.np/)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
+  <a href="https://wpeverest.com/wordpress-plugins/user-registration">
+    User Registration
+  </a> ||
+  <a href="https://wpeverest.com/wordpress-plugins/everest-forms/">
+    Everest Forms
+  </a>
+  ||
+  <a href="https://wordpress.org/plugins/registration-form-for-woocommerce/">
+   Registration Form For WooCommerce
+  </a>
+  ||
+  <a href="https://wordpress.org/plugins/smart-smtp/">
+    SmartSMTP
+  </a>
+</div>
 
-* 💬 Ask me about **Javascript, React, Next Js, PHP, Laravel, Wordpress plugin and Gutenberg Block**
+## 🛠 Tech Stacks
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/mkr07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mkr07" height="30" width="40" /></a>
-<a href="https://dev.to/milan88888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="milan88888" height="30" width="40" /></a>
-<a href="https://twitter.com/i_am_mkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_mkr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/milan-chaudhary-80491b257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milan-chaudhary-80491b257" height="30" width="40" /></a>
-<a href="https://fb.com/ma.tmro.milan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ma.tmro.milan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sttmkrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sttmkrr" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
+### Frontend
+<div style="display: flex; flex-direction:column; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js" alt="Next.js">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery" alt="jQuery">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?logo=chakraui" alt="Chakra UI">
+</div>
 
-### My Github Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milan88888&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milan88888&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=milan88888&theme=github_dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=milan88888&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### Backend
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel" alt="Laravel">
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress" alt="WordPress">
+</div>
+
+### DevOps
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql" alt="MySQL">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux" alt="Linux">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman" alt="Postman">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git" alt="Git">
+</div>
+
+## 🤝 Let's Connect
+[![Twitter](https://img.shields.io/badge/Twitter-%40i__am__mkr-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/i_am_mkr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milan_Chaudhary-0077B5?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/milan-chaudhary-80491b257)
+[![Dev.to](https://img.shields.io/badge/dev.to-milan88888-0A0A0A?logo=dev.to&style=for-the-badge)](https://dev.to/milan88888)
+[![CodePen](https://img.shields.io/badge/CodePen-mkr07-000000?logo=codepen&style=for-the-badge)](https://codepen.io/mkr07)
