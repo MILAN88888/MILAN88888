@@ -1,5 +1,5 @@
 ## Hi, Buddy 🙋‍♂️
-### Full-Stack Developer | WordPress Plugin Specialist
+### Full-Stack Developer | WordPress Plugin Specialist | Gutenberg Block Specialist
 
 🧠 Problem Solver | 🛠️ Full-Stack Craftsman | ♥️ Open-Source Contributor
 
@@ -31,6 +31,7 @@ I develop and maintain high-performance WordPress plugins with thousands of acti
 ### Frontend
 <div style="display: flex; flex-direction:column; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js" alt="Next.js">
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery" alt="jQuery">
